@@ -1,18 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello%2C+%E4%BD%A0%E5%A5%BD%2C+%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%2C++%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!)](https://git.io/typing-svg)
 
-## 👋 I'm Iris, a fresh graduate & a passionate front-end developer.
+## 👋 I'm Iris. Here to learn, experiment and share my upcoming projects.
 
-- 🎓 Just graduated from **University of Malaysia Sabah**
-
-- 🤝 I’m currently seeking opportunities to explore a career in **Software Development** as well as **Web Development**
-
-- 🌱 I’m currently learning **Java, Python, React.js, and MySQL**
+- 🌱 Continuously sharpening my skills in **PHP, SQL, and Javascript**
 
 - 📫 How to reach me: **iris.ai0220@gmail.com**
-
-- 🎮 I enjoy playing **competitive video games**
-
-- 🎵 I also enjoy **exploring new music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
