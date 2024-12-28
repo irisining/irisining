@@ -1,4 +1,4 @@
-[![Typing SVG]([https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello%2C+%E4%BD%A0%E5%A5%BD%2C+%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%2C++%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!)](https://git.io/typing-svg](https://readme-typing-svg.demolab.com/demo/?size=19&lines=Creativity+is+intelligence+having+fun.)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&width=435&lines=Creativity+is+intelligence+having+fun.)](https://git.io/typing-svg)
 
 ## 👋 I'm Iris. Here to learn, experiment and share my upcoming projects.
 
